@@ -32157,7 +32157,7 @@ if(p<q){k=j.mB(p)
 if(s.$2(a,k)>0){B.b.m(j.b,b,k)
 b=p}}B.b.m(j.b,b,a)}}
 A.zw.prototype={
-M(a,b){var s=null,r=A.agb("Dicee",s,s,s)
+M(a,b){var s=null,r=A.agb("MyDicee",s,s,s)
 return new A.qI(new A.rT(new A.p3(r,B.B3,new A.FB(s,s,1/0,56),s),new A.pD(s),B.bO,s),s)}}
 A.pD.prototype={
 aJ(){return new A.DD(B.o)}}
